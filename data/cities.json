@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Bodaybo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-08-29T14:13:22.713Z",
+      "notes": "",
+      "position": {
+        "lat": "58.062958640340256",
+        "lng": "114.64014500710574"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Fuentes Claras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-08T15:25:26.886Z",
+      "notes": "",
+      "position": {
+        "lat": "40.8522888100376",
+        "lng": "-1.2785248248908456"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Saelices",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-08T15:39:37.277Z",
+      "notes": "",
+      "position": {
+        "lat": "39.92944021138855",
+        "lng": "-2.7919271292192964"
+      },
+      "id": 3
+    }
+  ]
+}
